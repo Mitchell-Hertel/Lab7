@@ -10,6 +10,7 @@ public class RPSLSpock {
     public static final String SCISSORS = "scissors";
     public static final String LIZARD = "lizard";
     public static final String SPOCK = "spock";
+    
 
     /**
      *
